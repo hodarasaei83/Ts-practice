@@ -17,3 +17,7 @@ function Counter(a:number,b:number):number{
   return counted
 }
 Counter(12,5)
+
+//type alias
+type person = {name:string, age:number}
+const user1:person = {name:"hoda" ,age:21}

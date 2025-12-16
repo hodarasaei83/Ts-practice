@@ -15,3 +15,4 @@ function Counter(a, b) {
     return counted;
 }
 Counter(12, 5);
+var user1 = { name: "hoda", age: 21 };
